@@ -146,7 +146,7 @@
     "postcss-preset-env": "6.7.0",
     "postcss-reporter": "6.0.1",
     "prettier": "2.0.4",
-    "react-dev-utils": "10.2.1",
+    "react-dev-utils": "11.0.4",
     "stylelint": "13.3.2",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-standard": "20.0.0",
