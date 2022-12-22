@@ -60,7 +60,7 @@
     "helmet": "^3.22.0",
     "is-glob": "^4.0.1",
     "isomorphic-unfetch": "^3.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "less": "^3.11.1",
     "next": "^9.3.4",
     "object-assign-deep": "^0.4.0",
